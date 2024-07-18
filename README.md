@@ -18,7 +18,7 @@ Data : Super Store in USA , the data contain about 10000 rows
 ## Description
  This study involves developing a Power BI dashboard that includes key performance indicators (KPIs) such as revenue, cost, profit, and profit margin. The dashboard will offer drill-through capabilities based on various parameters, including region, states, cities, product categories, and sub-categories.
 
- ![alt_text](https://github.com/Pra1237159/SuperStore-Sales-Analysis-Power-BI/blob/main/Screenshot%202024-06-19%20135933.png)
+ ![alt_text](https://github.com/Pra1237159/SuperStore-Sales-Analysis-Power-BI/blob/main/Screenshot%202024-06-19%20135903.png)
 
  
 
